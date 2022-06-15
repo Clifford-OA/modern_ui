@@ -1,8 +1,8 @@
-![alt text](https://github.com/Clifford-OA/stylist/blob/main/1.png?raw=true)
+![alt text](https://github.com/Clifford-OA/modern_ui/blob/main/1.png?raw=true)
 
-![alt text](https://github.com/Clifford-OA/stylist/blob/main/2.png?raw=true)
+![alt text](https://github.com/Clifford-OA/modern_ui/blob/main/2.png?raw=true)
 
-![alt text](https://github.com/Clifford-OA/stylist/blob/main/3.png?raw=true)
+![alt text](https://github.com/Clifford-OA/modern_ui/blob/main/3.png?raw=true)
 
 
 
